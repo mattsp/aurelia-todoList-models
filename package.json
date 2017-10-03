@@ -1,0 +1,28 @@
+{
+  "name": "aurelia-todolist-models",
+  "version": "1.0.0",
+  "description": "modelisation reprensentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsp/aurelia-todoList-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsp/aurelia-todoList-models/issues"
+  },
+  "homepage": "https://github.com/mattsp/aurelia-todoList-models#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-typescript": "^3.2.2",
+    "gulp-typescript-module-bundler": "^1.2.0",
+    "gulp-typescript-package": "0.0.2-a",
+    "merge2": "^1.2.0"
+  }
+}
