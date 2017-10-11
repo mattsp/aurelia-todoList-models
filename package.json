@@ -24,5 +24,6 @@
     "gulp-typescript-module-bundler": "^1.2.0",
     "gulp-typescript-package": "0.0.2-a",
     "merge2": "^1.2.0"
-  }
+  },
+  "typings": "build/definitions/index.d.ts"
 }
