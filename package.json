@@ -1,6 +1,6 @@
 {
   "name": "aurelia-todolist-models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "modelisation reprensentation",
   "main": "index.js",
   "scripts": {
