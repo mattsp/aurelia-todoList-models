@@ -1,8 +1,8 @@
 export interface ITaskBaseModel {
-    id:string;
+    id?:string;
     title: string;
-    description: string;
+    description?: string;
     completed: boolean;
-    createdAt: Date;
-    updatedAt: Date;
+    createdAt?: Date;
+    updatedAt?: Date;
 }

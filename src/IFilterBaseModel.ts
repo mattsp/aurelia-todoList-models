@@ -1,4 +1,4 @@
 export interface IFilterBaseModel {
-    id: string;
+    id?: string;
     name:string;
 }
