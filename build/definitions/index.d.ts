@@ -1,3 +1,2 @@
-import { IFilterBaseModel } from './IFilterBaseModel';
-import { ITaskBaseModel } from './ITaskBaseModel';
-export { ITaskBaseModel, IFilterBaseModel };
+import { IUserBaseModel } from './IUserBaseModel';
+export { IUserBaseModel };

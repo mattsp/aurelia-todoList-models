@@ -1,7 +1,5 @@
-import { IFilterBaseModel } from './IFilterBaseModel';
-import { ITaskBaseModel } from './ITaskBaseModel';
+import { IUserBaseModel } from './IUserBaseModel';
 
 export {
-    ITaskBaseModel,
-    IFilterBaseModel
+    IUserBaseModel
 };
