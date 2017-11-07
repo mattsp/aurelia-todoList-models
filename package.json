@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/mattsp/aurelia-todoList-models#readme",
   "devDependencies": {
-    "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-clean": "^0.3.2",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-typescript": "^3.2.2",
